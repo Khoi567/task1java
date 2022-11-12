@@ -1,12 +1,9 @@
-/* gerald manyasa @ 2105029
- * java programmer
- * this program allows display of multiple of 2,3,and seven within the range of  71 to 150
- * 
+/* whitney khoi
 */
 
-package Name;//the source folder
+package Khoi;//the source folder
 
-public class multiplesof_2_3_7 {
+public class showingmultiples {
    	public static void main(String args[]) {
 		System.out.println("\nmultiples of 2: ");		
 		for (int i=71; i<150; i++) {//am using or loop beacause it is efficient than while and do while
