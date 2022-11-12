@@ -1,13 +1,9 @@
-/* gerald manyasa @ 2105029
- * java programmer
- * the user enters the two values and chooses within the operation for execution
-/* gerald manyasa @ 2105029
- * java programmer
+/* whitney khoi
  * this program allows user to enter values and the program checks and does the calculation based on the operation chosen
  * 
 
 */
-package Name;//folder name
+package khoi;//folder name
 
 import java.util.Scanner;//the easiest way to read in a java program
 
