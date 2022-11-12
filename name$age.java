@@ -1,14 +1,11 @@
-/*21/05029
- * gerald manyasa
- * SCOPE: this  program allows the user to enter their second name .
- * the user enters the age
- * the program through the length property it display the number of words in the name
+/*whitney khoi
+the program through the length property it display the number of words in the name
  * the program via the age it determines if the age of the programmer is even or odd,
  * please when testing click with arrow at the end of the statement and pace enter once and later press at the end of the statement 
  * you can also  press enter but it will land u in a compile eror
  */
 
-package Name;//the name of the folder
+package Khoi;//the name of the folder
 
 import java.util.Arrays;
 import java.util.Scanner;// It is the easiest way to read input in a Java program
@@ -16,7 +13,7 @@ import java.util.Scanner;// It is the easiest way to read input in a Java progra
  * @author my documentation
  *
  */
-public class counter_variables {
+public class name$age {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
