@@ -1,11 +1,9 @@
 /* khoi whitney
  * this program propmts the user to enter marks of the five units and gives the summ and outputs the average in two decimal points
  * */
-package Name;
+package khoi;
 import java.util.Scanner;
-import java.math.RoundingMode;
-import java.text.DecimalFormat;
-public class Average {
+public class fiveunits {
 		{//introduction of variables to to thir data types
 		int prog,data_structure,networking,Financial,entrepreurship, sum;
 		double average;
